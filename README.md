@@ -20,18 +20,22 @@
 * **`findById(int id)`** : recherche un objet par son ID.
 * **`findAll()`** : retourne la liste de tous les objets.
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-15 015815.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-15 015824.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-15 015850.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-15 015901.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-15 015913.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-15 015927.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-15 020004.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-15 020016.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-15 020025.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-15 020035.png" />
